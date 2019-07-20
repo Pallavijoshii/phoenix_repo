@@ -13,6 +13,11 @@ return bookId;
 }
 
 public void setTitle(String title){
-this.title=title}
+this.title=title;
+}
+
+public void seAuthor(String author){
+this.author=author;
+}
 
 }

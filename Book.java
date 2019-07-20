@@ -19,5 +19,8 @@ this.title=title;
 public void seAuthor(String author){
 this.author=author;
 }
+public void test(){
+}
 
 }
+
